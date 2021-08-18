@@ -8,17 +8,16 @@
 На тестирование затрачено: 10 часов.
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/ValentinFS/Java-1.1.1/issues/1
-* https://github.com/ValentinFS/Java-1.1.1/issues/2
+* [Не предусмотрена валидация номера карты менее 16ти цифр](https://github.com/ValentinFS/Java-1.1.1/issues/1)
+* [Не предусмотрена валидация номера карты более 16ти цифр](https://github.com/ValentinFS/Java-1.1.1/issues/2)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* Баг-репорты
-* Отчет о тестировании
 
-
-В качестве тестовых данных использовались данные с сайта https://www.freeformatter.com/credit-card-number-generator-validator.html:
+\
+\
+В качестве тестовых данных использовались [данные](https://www.freeformatter.com/credit-card-number-generator-validator.html)
 
 __*"Fail" - обозначение фактического результата.__
 
